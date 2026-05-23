@@ -5,7 +5,7 @@
 ---
 
 # 📑 Table of Contents
-
+ 
 - Introduction
 - SEO Fundamentals
 - Website Architecture
